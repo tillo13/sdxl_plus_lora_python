@@ -15,7 +15,7 @@ The code includes a full pipeline for downloading a base diffusion model and app
 
 Here are the generated images for comparison. Notice the difference in the styles applied by LoRA:
 
-Without LoRA         |  With LoRA
+With LoRA         |  Without LoRA
 :-------------------------:|:-------------------------:
 ![Cat1](screenshots/cat1.png)  |  ![Cat2](screenshots/cat2.png)
 
